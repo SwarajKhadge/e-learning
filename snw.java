@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 
 public class StopAndWaitProtocolDemo {
-    private static final int PORT = 12345;
+    private static final int PORT = 10000;
 
     public static void main(String[] args) {
         // Simulated sender and receiver
